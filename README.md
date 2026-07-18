@@ -63,7 +63,7 @@ Authentication is faked with a `user_id` query parameter.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/portal-content-visibility.git
+git clone https://github.com/Angelo148/portal-content-visibility.git
 cd portal-content-visibility
 ```
 
